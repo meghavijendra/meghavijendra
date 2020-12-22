@@ -33,3 +33,7 @@
   ![Visual Studio Code](https://img.shields.io/static/v1?message=VScode&logo=Visual%20Studio%20Code&labelColor=white&color=lightgrey&label=%20&logoColor=blue)
   ![Eclipse](https://img.shields.io/static/v1?message=Eclipse&logo=Eclipse%20IDE&labelColor=white&color=lightgrey&label=%20&logoColor=2C2255)
 
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+&nbsp; &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/meghavijendra/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:meghavijendra96@gmail.com)](mailto:meghavijendra96@gmail.com)
