@@ -10,26 +10,27 @@
 
 <h3> 🛠 &nbsp;Tech Stacks I work with </h3>
 
-- 💻 &nbsp; Programming Languages:
-
-![Python](https://img.shields.io/static/v1?message=Python&logo=Python&labelColor=white&color=lightgrey&label=%20)
-![Java](https://img.shields.io/static/v1?message=Java&logo=Java&labelColor=white&color=lightgrey&label=%20&logoColor=blue)
-![Scala](https://img.shields.io/static/v1?message=Scala&logo=Scala&labelColor=white&color=lightgrey&label=%20&logoColor=blue)
+- 💻 :
+![Python](https://img.shields.io/static/v1?message=Python&logo=Python&labelColor=white&color=lightgrey&label=%20)  
+![Java](https://img.shields.io/static/v1?message=Java&logo=Java&labelColor=white&color=lightgrey&label=%20&logoColor=007396)  
+![Scala](https://img.shields.io/static/v1?message=Scala&logo=Scala&labelColor=white&color=lightgrey&label=%20)
   
-- 🌐 &nbsp;
-  ![HTML5]
-  ![CSS]
-  ![JavaScript]
-  ![Node.js]
+- 🌐 :
+  ![HTML5](https://img.shields.io/static/v1?message=HTML5&logo=HTML5&labelColor=white&color=lightgrey&label=%20)
+  ![CSS](https://img.shields.io/static/v1?message=CSS3&logo=CSS3&labelColor=white&color=lightgrey&label=%20&logoColor=blue)
+  ![JavaScript](https://img.shields.io/static/v1?message=JavaScript&logo=JavaScript&labelColor=white&color=lightgrey&label=%20)
+  ![NodeJS](https://img.shields.io/static/v1?message=NodeJS&logo=Node.js&labelColor=white&color=lightgrey&label=%20)
+  ![ReactJS](https://img.shields.io/static/v1?message=React&logo=react&labelColor=white&color=lightgrey&label=%20)
   
-  ![ReactJS](https://img.shields.io/static/v1?message=React&logo=react&labelColor=5c5c5c&color=1182c3&label=%20)
-- 🛢 &nbsp;
-  ![MySQL]
-  ![MongoDB]
-- ⚙️ &nbsp;
-  ![Git]
-  ![GitHub]
-- 🔧 &nbsp;
-  ![Visual Studio Code]
-  ![Eclipse]
+- 🛢 :
+  ![MySQL](https://img.shields.io/static/v1?message=MySQL&logo=MySQL&labelColor=white&color=lightgrey&label=%20)
+  ![MongoDB](https://img.shields.io/static/v1?message=MongoDB&logo=MongoDB&labelColor=white&color=lightgrey&label=%20)
+  
+- ⚙️ :
+  ![Git](https://img.shields.io/static/v1?message=Git&logo=Git&labelColor=white&color=lightgrey&label=%20)
+  ![GitHub](https://img.shields.io/static/v1?message=GitHub&logo=GitHub&labelColor=white&color=lightgrey&label=%20&logoColor=black)
+  
+- 🔧 :
+  ![Visual Studio Code](https://img.shields.io/static/v1?message=VScode&logo=Visual%20Studio%20Code&labelColor=white&color=lightgrey&label=%20&logoColor=blue)
+  ![Eclipse](https://img.shields.io/static/v1?message=Eclipse&logo=Eclipse%20IDE&labelColor=white&color=lightgrey&label=%20&logoColor=2C2255)
 
