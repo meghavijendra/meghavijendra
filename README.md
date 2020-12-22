@@ -18,7 +18,7 @@
   ![CSS]
   ![JavaScript]
   ![Node.js]
-  ![React]
+  ![React](https://img.shields.io/static/v1?message=React&logo=react&labelColor=5c5c5c&color=1182c3&label=%20)
 - 🛢 &nbsp;
   ![MySQL]
   ![MongoDB]
