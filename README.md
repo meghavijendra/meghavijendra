@@ -10,15 +10,18 @@
 
 <h3> 🛠 &nbsp;Tech Stacks I work with </h3>
 - 💻 &nbsp;
-  ![Python]
-  ![Java]
-  ![C++]
+![Python](https://img.shields.io/static/v1?message=Python&logo=Python&labelColor=white&color=lightgrey&label=%20)
+![Java](https://img.shields.io/static/v1?message=Java&logo=Java&labelColor=white&color=lightgrey&label=%20&logoColor=blue)
+![Scala](https://img.shields.io/static/v1?message=Scala&logo=Scala&labelColor=white&color=lightgrey&label=%20&logoColor=blue)
+  
 - 🌐 &nbsp;
   ![HTML5]
   ![CSS]
   ![JavaScript]
   ![Node.js]
   ![React](https://img.shields.io/static/v1?message=React&logo=react&labelColor=5c5c5c&color=1182c3&label=%20)
+  
+  ![ReactJS](https://img.shields.io/static/v1?message=React&logo=react&labelColor=5c5c5c&color=1182c3&label=%20)
 - 🛢 &nbsp;
   ![MySQL]
   ![MongoDB]
