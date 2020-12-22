@@ -1,20 +1,9 @@
 ## Hello World!  <img src="Hey.gif" width="30px"></h2>
 
-<!--
-**meghavijendra/meghavijendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>I am Megha Vijendra  </h2> 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h4>I am Megha Vijendra 👩‍💻 </h4> 
-- 🎓 &nbsp; I'm Currently pursuing Masters in Computer Science </br>
-- I'm passionate about writing code, analyzing data, and building software.
-- 💼 I'm looking for opportunities to apply my skills and expirences to solve real world problems.
+<h3> 👩‍💻 &nbsp;Hers's something's about me </h3>
+- 🎓 I'm Currently pursuing Masters in Computer Science </br>
+- :sparkles: I'm passionate about writing code, analyzing data, and building software </br>
+- 🌱 I'm learning more about AWS, Systems Design and Artificial Intelligence  </br>
+- 💼 I'm looking for opportunities to apply my skills and expirences to solve real world problems </br>
