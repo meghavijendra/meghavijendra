@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h4>I am Megha Vijendra 👩‍💻 </h4> 
-- :mortar_board: I'm Currently pursuing Masters in Computer Science
-- graduate student who is passionate about writing code, solving problems, analyzing data, and building software.
+- 🎓 &nbsp; I'm Currently pursuing Masters in Computer Science </br>
+- I'm passionate about writing code, analyzing data, and building software.
+- 💼 I'm looking for opportunities to apply my skills and expirences to solve real world problems.
