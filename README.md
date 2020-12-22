@@ -20,6 +20,8 @@
   ![JavaScript](https://img.shields.io/static/v1?message=JavaScript&logo=JavaScript&labelColor=white&color=lightgrey&label=%20)
   ![NodeJS](https://img.shields.io/static/v1?message=NodeJS&logo=Node.js&labelColor=white&color=lightgrey&label=%20)
   ![ReactJS](https://img.shields.io/static/v1?message=React&logo=react&labelColor=white&color=lightgrey&label=%20)
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=meghavijendra&show_icons=true&hide_border=true">
   
 - 🛢 :
   ![MySQL](https://img.shields.io/static/v1?message=MySQL&logo=MySQL&labelColor=white&color=lightgrey&label=%20)
@@ -32,6 +34,7 @@
 - 🔧 :
   ![Visual Studio Code](https://img.shields.io/static/v1?message=VScode&logo=Visual%20Studio%20Code&labelColor=white&color=lightgrey&label=%20&logoColor=blue)
   ![Eclipse](https://img.shields.io/static/v1?message=Eclipse&logo=Eclipse%20IDE&labelColor=white&color=lightgrey&label=%20&logoColor=2C2255)
+ 
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
