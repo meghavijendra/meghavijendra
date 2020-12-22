@@ -1,4 +1,4 @@
-## Hello World!
+## Hello World!  <img src="Hey.gif" width="30px"></h2>
 
 <!--
 **meghavijendra/meghavijendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h4>I am Megha Vijendra :woman_technologist: </h4> 
+I'm a computer science graduate student who is passionate about writing code, solving problems, analyzing data, and building software.
