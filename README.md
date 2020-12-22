@@ -11,7 +11,7 @@
 <h3> 🛠 &nbsp;Tech Stacks I work with </h3>
 
 - 💻 :
-![Python](https://img.shields.io/static/v1?message=Python&logo=Python&labelColor=white&color=lightgrey&label=%20)![Java](https://img.shields.io/static/v1?message=Java&logo=Java&labelColor=white&color=lightgrey&label=%20&logoColor=007396)![Scala](https://img.shields.io/static/v1?message=Scala&logo=Scala&labelColor=white&color=lightgrey&label=%20&logoColor=red)
+![Python](https://img.shields.io/static/v1?message=Python&logo=Python&labelColor=white&color=lightgrey&label=%20) ![Java](https://img.shields.io/static/v1?message=Java&logo=Java&labelColor=white&color=lightgrey&label=%20&logoColor=007396) ![Scala](https://img.shields.io/static/v1?message=Scala&logo=Scala&labelColor=white&color=lightgrey&label=%20&logoColor=red)
   
 - 🌐 :
   ![HTML5](https://img.shields.io/static/v1?message=HTML5&logo=HTML5&labelColor=white&color=lightgrey&label=%20)
