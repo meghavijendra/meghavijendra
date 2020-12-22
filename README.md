@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h4>I am Megha Vijendra :raising_hand: </h4> 
-I'm a computer science graduate student who is passionate about writing code, solving problems, analyzing data, and building software.
+<h4>I am Megha Vijendra 👩‍💻 </h4> 
+- :mortar_board: I'm Currently pursuing Masters in Computer Science
+- graduate student who is passionate about writing code, solving problems, analyzing data, and building software.
