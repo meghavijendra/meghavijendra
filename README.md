@@ -3,13 +3,12 @@
 ### I am Megha Vijendra 
 
 <h3> 👩‍💻 &nbsp;Here's something's about me </h3>
-- 🎓 I'm Currently pursuing Masters in Computer Science </br>
-- :sparkles: I'm passionate about writing code, analyzing data, and building software </br>
-- 🌱 I'm learning more about AWS, Systems Design and Artificial Intelligence  </br>
-- 💼 I'm looking for opportunities to apply my skills and expirences to solve real world problems </br>
+🎓 I'm Currently pursuing Masters in Computer Science </br>
+:sparkles: I'm passionate about writing code, analyzing data, and building software </br>
+🌱 I'm learning more about AWS, Systems Design and Artificial Intelligence  </br>
+💼 I'm looking for opportunities to apply my skills and expirences to solve real world problems </br>
 
 <h3> 🛠 &nbsp;Tech Stacks I work with </h3>
-
 - 💻 :
 ![Python](https://img.shields.io/static/v1?message=Python&logo=Python&labelColor=white&color=lightgrey&label=%20) ![Java](https://img.shields.io/static/v1?message=Java&logo=Java&labelColor=white&color=lightgrey&label=%20&logoColor=007396) ![Scala](https://img.shields.io/static/v1?message=Scala&logo=Scala&labelColor=white&color=lightgrey&label=%20&logoColor=red)
   
